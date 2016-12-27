@@ -45,7 +45,7 @@ def scale():
 		print("Invalid Argument Count")
 		sys.exit(1)
 	if (not re.match(arg_r, arguments[0])):
-		print("Invalid Argument: ", arguments[0])
+		print("Invalid Modifier: ", arguments[0])
 		sys.exit(1)
 	for arg in arguments[1:]:
 		if (not re.match(val_r, arg)):
