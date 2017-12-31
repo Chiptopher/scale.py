@@ -3,7 +3,7 @@ scale.py (pronounced "scale pie") is a Python-base command-line utility that cal
 
 ## Usage
 ### Installation
-scale.py can be installed from [PyPi using pip] (https://pypi.python.org/pypi/scalepy)
+scale.py can be installed from [PyPi using pip](https://pypi.python.org/pypi/scalepy)
 ```
 pip install scalepy
 ```
